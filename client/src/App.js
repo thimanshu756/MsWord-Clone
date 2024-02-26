@@ -5,7 +5,9 @@ function App() {
 
 return(
   <>
-   <ControlPanel/> 
+  <div className=' bg-[#f5f5f5]'>
+      <ControlPanel/>  
+  </div>
   </>
 
 )
