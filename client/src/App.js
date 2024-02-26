@@ -1,12 +1,14 @@
-import './App.css';
+import React from 'react';
+import ControlPanel from './components/ControlPanel';
 
 function App() {
-  return (
-    <>
-    
-    
-    </>
-  );
+
+return(
+  <>
+   <ControlPanel/> 
+  </>
+
+)
 }
 
 export default App;
